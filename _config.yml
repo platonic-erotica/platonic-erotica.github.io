@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Platonic Erotica"
 title_separator          : "-"
-name                     : "¬ Gauss"
+name                     : "Platonic Erotica"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -61,7 +61,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "¬ Gauss"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Somewhere"
